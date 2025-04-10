@@ -8,7 +8,7 @@ import Working from './component/Working';
 
 function App() {
   return (
-    <div className="px-[4vw] overflow-hidden pt-[4vh] max-sm:p-[2vh]">
+    <div className="relative px-[4vw] overflow-hidden pt-[4vh] max-sm:p-[2vh]">
       <Navbar/>
       <Hero/>
       <Service/>
