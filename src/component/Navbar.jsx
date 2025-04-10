@@ -25,7 +25,7 @@ const Navbar = () => {
       </div>
       <img
         className="md:hidden w-[20px] h-[20px] cursor-pointer"
-        src="./icons/burger-icon.png"
+        src="./icons/Burger-icon.png"
         alt=""
       />
     </div>

@@ -23,10 +23,10 @@ const Footer = () => {
         </div>
         <div className="flex justify-around md:w-[13vw] max-sm:absolute max-sm:bottom-[100px]  max-sm:justify-center max-sm:gap-[10px] max-sm:text-center">
           <button>
-            <img src="./images/linkedin.png" alt="" />
+            <img src="./images/LinkedIn.png" alt="" />
           </button>
           <button>
-            <img src="./images/facebook.png" alt="" />
+            <img src="./images/FaceBook.png" alt="" />
           </button>
           <button className="bg-white w-[2vw] h-[4vh] max-sm:w-[32px] max-sm:h-[32px] rounded-full my-auto">
             <img
